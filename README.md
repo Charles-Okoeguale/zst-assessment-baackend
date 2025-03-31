@@ -2,7 +2,7 @@
 
 ## Cloning the Repository
 
-1. Clone the repository:
+Clone the repository:
 git clone https://github.com/yourusername/discount-calculator.git
 cd discount-calculator
 
