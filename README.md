@@ -10,13 +10,13 @@ cd discount-calculator
 
 Backend Setup (Python/FastAPI)
 Create and activate virtual environment:
-# Create virtual environment
+Create virtual environment
 python -m venv venv
 
-# Activate virtual environment
-# On macOS/Linux:
+Activate virtual environment
+On macOS/Linux:
 source venv/bin/activate
-# On Windows:
+On Windows:
 venv\Scripts\activate
 
 Install dependencies:
